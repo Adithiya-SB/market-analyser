@@ -1,0 +1,8 @@
+flask
+gunicorn
+yfinance
+ta
+scipy
+requests
+pandas
+python-dotenv
